@@ -13,7 +13,6 @@
 </head>
 <body style="background-color: ${color}">
 
-<h1>Stephen Gudowski</h1>
 
 </body>
 </html>

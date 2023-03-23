@@ -20,7 +20,7 @@ public class CounterServlet extends HttpServlet {
 //        counter++;
 //        out.println("<h3>You have viewed this page " + counter + " times, aren't you bored?");
 //    }
-    
+   
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
         response.setContentType("text/html");
